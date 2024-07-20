@@ -1,0 +1,27 @@
+figure {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.links nav ul {
+  display: flex;
+  justify-content: flex-end;
+  gap: 35px;
+  list-style-type: none;
+}
+
+nav a {
+  text-decoration: none;
+}
